@@ -1,0 +1,9 @@
+name: 1password
+version: 0.1.0
+
+authors:
+  - Aurimas Niekis <aurimas@niekis.lt>
+
+crystal: 0.23.1
+
+license: MIT
